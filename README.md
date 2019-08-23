@@ -1,3 +1,3 @@
 # Studying Pandas
 
-- Repositorios com algoritmos de aprendizado de máquina utilizado.
+- Repositorio com algoritmos de aprendizado de máquina utilizado.
